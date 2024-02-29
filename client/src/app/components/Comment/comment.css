@@ -1,0 +1,11 @@
+.comment-container {
+  padding: 20px;
+}
+.comment-avatar-container {
+  flex: none;
+  height: inherit;
+  padding: 0px 10px;
+}
+.comment-content-container {
+  padding: 0px 10px;
+}

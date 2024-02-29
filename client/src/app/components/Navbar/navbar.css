@@ -1,0 +1,32 @@
+.navbar-container {
+  position: fixed;
+  top: 0px;
+  height: 54px;
+  width: 100%;
+  background-color: aliceblue;
+  z-index: 2;
+}
+.logo-container {
+  display: flex;
+  width: 40%;
+  align-items: center;
+  border: 1px solid black;
+}
+.blogs-container {
+  display: flex;
+  width: 20%;
+  align-items: center;
+  justify-content: center;
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+}
+.info-container {
+  display: flex;
+  width: 40%;
+  align-items: center;
+  justify-content: flex-end;
+  border: 1px solid black;
+}
+.fs-20 {
+  font-size: 20px;
+}

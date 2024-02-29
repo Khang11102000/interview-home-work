@@ -1,0 +1,19 @@
+.post-container {
+  padding: 15px;
+  border-bottom: 2px solid black;
+}
+.post-title {
+  text-align: center;
+}
+.post-info {
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+}
+.post-content {
+    margin-bottom: 20px;
+}
+.p-fs-20 {
+  font-size: 20px;
+}
